@@ -1,0 +1,65 @@
+cust_id,full_name,email,signup_date,city,state,is_active
+C0033,betty hernandez,betty.hernandez33@example.com,06-Nov-2023,ATLANTA,GA,1
+C0057,JESSICA THOMPSON,jessica.thompson57@example.com,08/15/2022,Nashville,TN,Y
+C0011,Charles Wilson,,2021-07-18,portland,OR,N
+C0038,Donna Martin,donna.martin38@example.com,08/10/2021,phoenix,AZ,N
+C0049,Anthony Rodriguez,,2021-08-21,Houston,TX,Y
+C0040,John Anderson,john.anderson40@example.com,2023-12-20,Columbus,OH,Y
+C0051,  JOSHUA WHITE  ,joshua.white51@example.com,05/12/23,Denver,CO,true
+C0018,MICHAEL DAVIS,michael.davis18@example.com,2020-01-25,Chicago,IL,Y
+C0001,Linda Smith,linda.smith1@example.com,05/16/20,,GA,1
+C0013,  Lisa Lewis  ,,2020-05-05,Miami,FL,true
+C0058,paul moore,paul.moore58@example.com,05/21/2021,SAN DIEGO,CA,Y
+C0055,Jennifer Rodriguez,jennifer.rodriguez55@example.com,14-May-2020,CHARLOTTE,NC,Y
+C0054,kimberly lee,kimberly.lee54@example.com,15-Jun-2022,ATLANTA,GA,Y
+C0021,EMILY PEREZ,emily.perez21@example.com,14-Nov-2019,Nashville,TN,Y
+C0039,michelle hernandez,michelle.hernandez39@example.com,2023-08-04,houston,TX,Y
+C0003,JAMES HARRIS,james.harris3@example.com,11/30/22,Portland,OR,Y
+C0009,DAVID TAYLOR,david.taylor9@example.com,2019-07-06,Nashville,TN,0
+C0024,karen anderson,karen.anderson24@example.com,2024-03-17,Phoenix,AZ,Y
+C0007,PATRICIA DAVIS,patricia.davis7@example.com,07-Jul-2023,dallas,TX,Y
+C0045,Andrew Anderson,andrew.anderson45@example.com,05/08/19,Columbus,OH,Y
+C0023,Kenneth Davis,kenneth.davis23@example.com,22-Jun-2022,dallas,TX,Y
+C0007,PATRICIA DAVIS,patricia.davis7@example.com,07-Jul-2023,dallas,TX,Y
+C0047,Ashley Smith,ashley.smith47@example.com,2020-11-19,Sacramento,CA,1
+C0042,Kimberly Moore,kimberly.moore42@example.com,04/29/24,Phoenix,AZ,Y
+C0050,Richard Clark,richard.clark50@example.com,26-Jun-2022,AUSTIN,TX,Y
+C0014,David Jones,david.jones14@example.com,04/23/2024,nashville,TN,Y
+C0049,Anthony Rodriguez,,2021-08-21,Houston,TX,Y
+C0028,nancy harris,nancy.harris28@example.com,2022-07-28,Seattle,WA,Y
+C0043,Paul Anderson,paul.anderson43@example.com,20-Mar-2023,Atlanta,GA,Y
+C0035,Thomas Johnson,thomas.johnson35@example.com,01/04/2019,COLUMBUS,OH,1
+C0030,jessica perez,jessica.perez30@example.com,12/25/2020,Denver,CO,true
+C0059,Linda White,linda.white59@example.com,28-Jan-2020,Portland,OR,Y
+C0025,david robinson,david.robinson25@example.com,10-Dec-2023,San Diego,CA,Y
+C0034,Thomas Garcia,thomas.garcia34@example.com,2019-03-20,Atlanta,GA,Y
+C0015,LISA ANDERSON,lisa.anderson15@example.com,2019-09-05,Charlotte,NC,Y
+C0027,  Nancy Miller  ,nancy.miller27@example.com,01-Nov-2021,,GA,true
+C0036,nancy martin,nancy.martin36@example.com,09/20/22,Phoenix,AZ,N
+C0053,LISA WILLIAMS,lisa.williams53@example.com,01/26/19,phoenix,AZ,1
+C0016,joseph williams,joseph.williams16@example.com,10/27/23,dallas,TX,Y
+C0006,SARAH THOMPSON,sarah.thompson6@example.com,06/01/2022,Houston,TX,Y
+C0020,betty lewis,betty.lewis20@example.com,12/04/19,Dallas,TX,false
+C0048,mary williams,mary.williams48@example.com,05-Oct-2019,columbus,OH,Y
+C0046,Karen Harris,karen.harris46@example.com,10/14/2023,sacramento,CA,1
+C0010,  Sandra Taylor  ,sandra.taylor10@example.com,11-Jun-2024,atlanta,GA,true
+C0056,Thomas Hernandez,thomas.hernandez56@example.com,12/08/2023,atlanta,GA,true
+C0044,JESSICA RODRIGUEZ,jessica.rodriguez44@example.com,10/16/2020,phoenix,AZ,Y
+C0041,  Michael Harris  ,michael.harris41@example.com,2020-03-24,Columbus,OH,true
+C0032,Michael Gonzalez,michael.gonzalez32@example.com,10/25/2023,Dallas,TX,Y
+C0052,John Jackson,john.jackson52@example.com,2019-07-28,boston,MA,Y
+C0032,Michael Gonzalez,michael.gonzalez32@example.com,10/25/2023,Dallas,TX,Y
+C0026,  KIMBERLY SMITH  ,kimberly.smith26@example.com,03/23/2024,Miami,FL,true
+C0005,  ROBERT PEREZ  ,robert.perez5@example.com,03-May-2023,boston,MA,Y
+C0008,sandra jones,sandra.jones8@example.com,10/13/19,Atlanta,GA,Y
+C0060,  CHARLES DAVIS  ,charles.davis60@example.com,03-Jan-2020,SAN DIEGO,CA,N
+C0017,anthony miller,anthony.miller17@example.com,2019-07-18,Denver,CO,Y
+C0004,  Joshua Rodriguez  ,joshua.rodriguez4@example.com,03-Feb-2023,Dallas,TX,Y
+C0012,Steven Martin,steven.martin12@example.com,10-Nov-2019,CHICAGO,IL,Y
+C0022,STEVEN ROBINSON,steven.robinson22@example.com,04/27/2019,Portland,OR,Y
+C0029,  elizabeth moore  ,elizabeth.moore29@example.com,2023-09-06,DALLAS,TX,Y
+C0056,Thomas Hernandez,thomas.hernandez56@example.com,12/08/2023,atlanta,GA,true
+C0031,Barbara Lewis,barbara.lewis31@example.com,02/20/2019,Columbus,OH,true
+C0019,Emily Brown,emily.brown19@example.com,08/28/2022,dallas,TX,1
+C0037,Richard Wilson,richard.wilson37@example.com,19-Oct-2022,sacramento,CA,Y
+C0002,Jennifer Miller,jennifer.miller2@example.com,10/31/21,Boston,MA,Y

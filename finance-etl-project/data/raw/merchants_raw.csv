@@ -1,0 +1,32 @@
+merchant_id,merchant_name,category
+M001,  Whole Foods Market  ,Groceries
+M002,Trader Joes,Groceries
+M003,Kroger,Groceries
+M004,safeway,Groceries
+M005,shell oil,Gas & Fuel
+M006,CHEVRON,Gas & Fuel
+M007,  exxon  ,Gas & Fuel
+M008,Netflix,Entertainment
+M009,  SPOTIFY  ,Entertainment
+M010,AMC Theatres,Entertainment
+M011,Amazon,Shopping
+M012,target,Shopping
+M013,  Walmart  ,Shopping
+M014,  BEST BUY  ,Shopping
+M015,Starbucks,Dining
+M016,chipotle,Dining
+M017,  MCDONALDS  ,Dining
+M018,OLIVE GARDEN,Dining
+M019,  Delta Air Lines  ,Travel
+M020,Marriott,Travel
+M021,Uber,Travel
+M022,Airbnb,Travel
+M023,  at&t  ,Utilities
+M024,comcast xfinity,Utilities
+M025,PACIFIC GAS & ELECTRIC,Utilities
+M026,Blue Cross Blue Shield,Healthcare
+M027,CVS Pharmacy,Healthcare
+M028,Walgreens,Healthcare
+M029,PLANET FITNESS,Fitness
+M030,24 HOUR FITNESS,Fitness
+M031,employer payroll inc,Income
