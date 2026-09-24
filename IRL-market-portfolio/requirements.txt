@@ -1,0 +1,10 @@
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.1
+matplotlib>=3.5
+
+# optional, only needed to run tests/ via pytest instead of `python tests/test_irl_market.py`
+pytest>=7.0
+
+# optional, only needed to run the notebook interactively
+jupyter>=1.0
