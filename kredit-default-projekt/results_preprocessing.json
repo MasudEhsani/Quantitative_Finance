@@ -1,0 +1,31 @@
+{
+  "n_train": 350,
+  "n_test": 150,
+  "train_default_rate_pct": 20.29,
+  "test_default_rate_pct": 20.67,
+  "n_train_defaults": 71,
+  "n_test_defaults": 31,
+  "median_emp_length_imputed": 6.0,
+  "feature_columns": [
+    "loan_amnt",
+    "term",
+    "int_rate",
+    "installment",
+    "grade",
+    "sub_grade",
+    "emp_length",
+    "home_ownership",
+    "annual_inc",
+    "verification_status",
+    "purpose",
+    "dti",
+    "delinq_2yrs",
+    "inq_last_6mths",
+    "open_acc",
+    "pub_rec",
+    "revol_bal",
+    "revol_util",
+    "total_acc",
+    "emp_length_missing"
+  ]
+}

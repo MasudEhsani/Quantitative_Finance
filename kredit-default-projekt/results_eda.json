@@ -1,0 +1,14 @@
+{
+  "n_rows": 500,
+  "n_features": 19,
+  "target_counts": {
+    "0": 398,
+    "1": 102
+  },
+  "target_default_rate_pct": 20.4,
+  "imbalance_ratio_nondefault_to_default": 3.9,
+  "missing_values": {
+    "emp_length": 25
+  },
+  "missing_pct_emp_length": 5.0
+}

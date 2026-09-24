@@ -1,0 +1,7 @@
+model,roc_auc,pr_auc,precision_class1,recall_class1,f1_class1,brier_score
+RandomForest_SMOTE,0.6763,0.313,0.2381,0.1613,0.1923,0.1734
+LogisticRegression_baseline,0.6454,0.2885,0.3158,0.5806,0.4091,0.227
+GradientBoosting_SMOTE,0.6037,0.2914,0.2353,0.129,0.1667,0.1892
+RandomForest_undersampled,0.6004,0.2813,0.32,0.5161,0.3951,0.2382
+RandomForest_class_weight,0.5701,0.2377,0.1429,0.0645,0.0889,0.1865
+GradientBoosting_class_weight,0.5481,0.2479,0.2174,0.1613,0.1852,0.2108

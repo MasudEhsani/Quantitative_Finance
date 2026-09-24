@@ -1,0 +1,56 @@
+[
+  {
+    "model": "LogisticRegression_baseline",
+    "roc_auc": 0.6454,
+    "pr_auc": 0.2885,
+    "precision_class1": 0.3158,
+    "recall_class1": 0.5806,
+    "f1_class1": 0.4091,
+    "brier_score": 0.227
+  },
+  {
+    "model": "RandomForest_class_weight",
+    "roc_auc": 0.5701,
+    "pr_auc": 0.2377,
+    "precision_class1": 0.1429,
+    "recall_class1": 0.0645,
+    "f1_class1": 0.0889,
+    "brier_score": 0.1865
+  },
+  {
+    "model": "RandomForest_SMOTE",
+    "roc_auc": 0.6763,
+    "pr_auc": 0.313,
+    "precision_class1": 0.2381,
+    "recall_class1": 0.1613,
+    "f1_class1": 0.1923,
+    "brier_score": 0.1734
+  },
+  {
+    "model": "RandomForest_undersampled",
+    "roc_auc": 0.6004,
+    "pr_auc": 0.2813,
+    "precision_class1": 0.32,
+    "recall_class1": 0.5161,
+    "f1_class1": 0.3951,
+    "brier_score": 0.2382
+  },
+  {
+    "model": "GradientBoosting_class_weight",
+    "roc_auc": 0.5481,
+    "pr_auc": 0.2479,
+    "precision_class1": 0.2174,
+    "recall_class1": 0.1613,
+    "f1_class1": 0.1852,
+    "brier_score": 0.2108
+  },
+  {
+    "model": "GradientBoosting_SMOTE",
+    "roc_auc": 0.6037,
+    "pr_auc": 0.2914,
+    "precision_class1": 0.2353,
+    "recall_class1": 0.129,
+    "f1_class1": 0.1667,
+    "brier_score": 0.1892
+  }
+]
